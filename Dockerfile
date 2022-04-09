@@ -1,4 +1,4 @@
-FROM ghcr.io/anime-republic/mirrorhunter:latest
+FROM hsjsa/h3rsh:latest
 
 WORKDIR /usr/src/app
 COPY . .
